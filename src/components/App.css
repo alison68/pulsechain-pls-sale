@@ -1,0 +1,16 @@
+Card {
+    height: 10%;
+}
+
+h6 {
+    font-size: 1.2vw;
+}
+
+p {
+    font-size: 0.9vw;
+}
+
+.depositButton {
+    width: 100%;
+    
+}
